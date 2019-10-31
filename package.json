@@ -12,11 +12,11 @@
   "author": "Den Rebenok",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
-    "concurrently": "^4.1.0",
+    "axios": "^0.19.0",
+    "concurrently": "^5.0.0",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
+    "express-graphql": "^0.9.0",
     "graphql": "^14.1.1"
   },
   "devDependencies": {
